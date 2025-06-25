@@ -1,2 +1,2 @@
 Hey there !!
-This is repo is a checkpoint of my web dev journey and includes my firstever HTML project.
+This repo is a checkpoint or moreover a starting point of my web dev journey and includes my firstever HTML project.
